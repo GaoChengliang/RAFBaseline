@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+folder=$1
+
+pushd $folder
+cat train.txt facts.txt valid.txt test.txt > all.txt
+popd

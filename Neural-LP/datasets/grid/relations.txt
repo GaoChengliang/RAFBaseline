@@ -1,0 +1,9 @@
+North
+South
+East
+West
+NorthEast
+NorthWest
+SouthEast
+SouthWest
+SouthWest_SouthEast_East_SouthEast

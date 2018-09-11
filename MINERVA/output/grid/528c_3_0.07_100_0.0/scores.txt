@@ -1,0 +1,48 @@
+Score for iteration 10
+Hits@1:  0.0303
+Hits@3:  0.0684
+Hits@5:  0.0898
+Hits@10:  1.0000
+Hits@20:  1.0000
+auc:  0.1778
+
+Score for iteration 20
+Hits@1:  0.0303
+Hits@3:  0.0684
+Hits@5:  0.0898
+Hits@10:  1.0000
+Hits@20:  1.0000
+auc:  0.2026
+
+Score for iteration 30
+Hits@1:  0.9697
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+auc:  0.9849
+
+Score for iteration 40
+Hits@1:  0.0000
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+auc:  0.5000
+
+Score for iteration 50
+Hits@1:  1.0000
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+auc:  1.0000
+
+Test (beam) scores with best model from output/grid/528c_3_0.07_100_0.0/model/model.ckpt
+Hits@1:  1.0000
+Hits@3:  1.0000
+Hits@5:  1.0000
+Hits@10:  1.0000
+Hits@20:  1.0000
+auc:  1.0000
+
